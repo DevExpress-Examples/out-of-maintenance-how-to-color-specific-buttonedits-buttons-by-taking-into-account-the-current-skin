@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomButtonEdit.cs](./CS/dxCustomButtonEdit/CustomButtonEdit.cs) (VB: [CustomButtonEdit.vb](./VB/dxCustomButtonEdit/CustomButtonEdit.vb))
+* [Form1.cs](./CS/dxCustomButtonEdit/Form1.cs) (VB: [Form1.vb](./VB/dxCustomButtonEdit/Form1.vb))
+* [Program.cs](./CS/dxCustomButtonEdit/Program.cs) (VB: [Program.vb](./VB/dxCustomButtonEdit/Program.vb))
+<!-- default file list end -->
 # How to color specific ButtonEdit's buttons by taking into account the current skin
 
 
